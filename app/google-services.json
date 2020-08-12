@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "150994923822",
+    "firebase_url": "https://fir-tutorial-85ffb.firebaseio.com",
+    "project_id": "fir-tutorial-85ffb",
+    "storage_bucket": "fir-tutorial-85ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150994923822:android:70ed51d74b645076380abf",
+        "android_client_info": {
+          "package_name": "com.example.firebasemultiplenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnM9pKfN8zsl47eHXsPs7OydY5JtW0d3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150994923822:android:694a2883e7437e43380abf",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnM9pKfN8zsl47eHXsPs7OydY5JtW0d3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150994923822:android:9485749dd6ef7d2d380abf",
+        "android_client_info": {
+          "package_name": "com.example.firebasev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnM9pKfN8zsl47eHXsPs7OydY5JtW0d3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150994923822-t91f68uegt957vjp5vje53o0ogvnfvcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
